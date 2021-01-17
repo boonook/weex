@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1DEB204C-F787-4A81-BC12-8C7CCD4871A1</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1DEB204C-F787-4A81-BC12-8C7CCD4871A1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeexDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeexDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace WeexDemo with scheme WeexDemo and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>629894254.28846502</real>
+			<key>timeStoppedRecording</key>
+			<real>629894262.44391</real>
+			<key>title</key>
+			<string>Building workspace WeexDemo with scheme WeexDemo and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>1DEB204C-F787-4A81-BC12-8C7CCD4871A1</string>
+		</dict>
+		<key>81EAEBEE-0DA2-4A99-816D-BBFF9865687A</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>81EAEBEE-0DA2-4A99-816D-BBFF9865687A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeexDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeexDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace WeexDemo with scheme WeexDemo and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>632588170.64459097</real>
+			<key>timeStoppedRecording</key>
+			<real>632588177.79348302</real>
+			<key>title</key>
+			<string>Building workspace WeexDemo with scheme WeexDemo and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>81EAEBEE-0DA2-4A99-816D-BBFF9865687A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

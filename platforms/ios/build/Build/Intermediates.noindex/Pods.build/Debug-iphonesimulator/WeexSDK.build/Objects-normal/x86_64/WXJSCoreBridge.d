@@ -1,0 +1,41 @@
+dependencies: \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Bridge/WXJSCoreBridge.mm \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/Target\ Support\ Files/WeexSDK/WeexSDK-prefix.pch \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Utility/WXDefine.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Bridge/WXJSCoreBridge.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Protocol/WXBridgeProtocol.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Utility/WXAssert.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Utility/WXLog.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Utility/WXUtility.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Utility/WXType.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Model/WXSDKInstance.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Model/WXComponent.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Model/WXJSExceptionInfo.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Network/WXResourceResponse.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Network/WXResourceRequest.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Performance/WXApmForInstance.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Engine/WXSDKEngine.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Engine/WXSDKError.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Bridge/JSValue+Weex.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Manager/WXSDKManager.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Manager/WXBridgeManager.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Manager/WXExtendCallNativeManager.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Monitor/WXExceptionUtils.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Bridge/WXBridgeContext.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Monitor/WXMonitor.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Bridge/WXPolyfillSet.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Protocol/WXAppMonitorProtocol.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Protocol/WXModuleProtocol.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Bridge/JSContext+Weex.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Bridge/WXCoreBridge.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/weex_core/Source/core/bridge/platform_bridge.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/weex_core/Source/base/common.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/weex_core/Source/base/closure.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/weex_core/Source/include/WeexApiHeader.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/weex_core/Source/include/WeexApiValue.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/weex_core/Source/core/layout/measure_func_adapter.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/weex_core/Source/core/layout/layout.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/weex_core/Source/core/layout/style.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/weex_core/Source/core/layout/flex_enum.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Monitor/WXAnalyzerCenter.h \
+  /Users/zhuxiuwu/webSpace/weex/weexdemo/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Protocol/WXAnalyzerProtocol.h
